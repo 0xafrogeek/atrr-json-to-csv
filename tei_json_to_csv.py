@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-with open("attributeDataValues.json") as f:
+with open("./path/path2/attributeDataValues.json") as f:
     data = json.load(f)["trackedEntityInstances"]
 
 # Flatten to dic

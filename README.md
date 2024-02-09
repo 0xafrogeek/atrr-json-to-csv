@@ -1,3 +1,3 @@
-# Convert Retrieved DHIS2 Attributes JSON file to CVS
+# Convert/Tranforms Retrieved DHIS2 TEIs JSON to CVS
 
 -   flatten and convert/transform
