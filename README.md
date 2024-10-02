@@ -1,6 +1,6 @@
 # DHIS2 Data Transformation Scripts
 
-A set of scripts that help transform and extracted DHIS2 JSON data from the DHIS2 API and convert to CSV if necessary.
+A set of scripts that help transform extracted DHIS2 JSON data from the DHIS2 API and convert to CSV if necessary.
 
 ## Table of Contents
 
